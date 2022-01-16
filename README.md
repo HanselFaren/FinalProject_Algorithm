@@ -1,4 +1,6 @@
 # FinalProject_Algorithm
 Final project repo for algorithm and programming
 
-Will be updated soon
+Name: Hansel Faren
+NIM : 2501990350
+Class : L1AC
