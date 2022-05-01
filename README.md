@@ -1,6 +1,6 @@
 # FinalProject_Algorithm
-Final project repo for algorithm and programming\n
+Final project repo for algorithm and programming<br />
 
-Name: Hansel Faren\n
-NIM : 2501990350\n
+Name: Hansel Faren<br />
+NIM : 2501990350<br />
 Class : L1AC
